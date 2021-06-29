@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kornperkus
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter projects
-- 📫 How to reach me Facebook.com/smilepluskorn
+- 🌱 I’m currently learning Web technology
+- 📫 Reach me on Facebook.com/smilepluskorn
